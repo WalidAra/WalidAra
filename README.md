@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walid Araar</h1>
 <h3 align="center">A passionate fullstack developer from Algeria</h3>
 
-<img src="https://64.media.tumblr.com/60b3030372fb5f077856a019f6b38ef0/tumblr_mm0o0xqNf41spwa2po1_400.gifv" alt="Dedsec" width="600" align="center" />
+<img src="https://i.pinimg.com/originals/ed/21/6d/ed216d49c139926e7d5c71c32ebe02cf.gif" alt="Dedsec" width="600" align="center" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidara&label=Profile%20views&color=0e75b6&style=flat" alt="walidara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidara" alt="walidara" /></a> </p>
