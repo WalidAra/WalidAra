@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Walid Araar</h1>
-<h3 align="center">A passionate fullstack developer from Algeria</h3>
+<h3 align="center">A Passionate Fullstack Developer From Algeria</h3>
 
 <img src="https://i.pinimg.com/originals/ed/21/6d/ed216d49c139926e7d5c71c32ebe02cf.gif" alt="Dedsec" width="800" align="center" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidara&label=Profile%20views&color=0e75b6&style=flat" alt="walidara" /> </p>
