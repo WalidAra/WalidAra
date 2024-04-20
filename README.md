@@ -18,9 +18,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino,cpp,c,css,html,dart,discord,express,figma,firebase,flutter,ai,py,java,cs,js,kali,ts,lunix,materialui,mysql,nextjs,nodejs,ps,postgres,postman,prisma,react,ps,redux,supabase,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,arduino,cpp,c,css,html,dart,discord,express,figma,firebase,flutter,ai,py,java,cs,js,kali,ts,linux,materialui,mysql,nextjs,nodejs,ps,postgres,postman,prisma,react,ps,redux,supabase,tailwind,vscode" />
   </a>
 </p>
 
