@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidara&show_icons=true&locale=en" alt="walidara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidAra&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" alt="walidara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidara&" alt="walidara" /></p>
 <p> <img align-"center" src="https://github-readme-activity-graph.vercel.app/graph?username=WalidAra&bg_color=0d1017&color=6cd0f4&line=6cd0f4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /> </p>
