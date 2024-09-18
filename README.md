@@ -1,3 +1,5 @@
+<img src="https://private-user-images.githubusercontent.com/40190772/331339935-8f0accf5-b4a7-497f-98f2-638566b68b3b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY2MDIwNTUsIm5iZiI6MTcyNjYwMTc1NSwicGF0aCI6Ii80MDE5MDc3Mi8zMzEzMzk5MzUtOGYwYWNjZjUtYjRhNy00OTdmLTk4ZjItNjM4NTY2YjY4YjNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE3VDE5MzU1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiZjExYmI2NDU0OTA2MGE5MWRmYjM1OGE4M2ZkMmQ0MWJmNDg2NjhlNTBkY2ZiZjBhNjI5NjJiMTZhYWRmNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2NIZzUhlbvHMBPSiS9AbVh6eKY_dhxZHmFMqiYGErkI" width="100%" align="center" />
+
 # 💫 About Me:
 -👋 Hi, I’m Walid Araar<br>- 👀 I’m interested in creating full stack applications<br>- 🌱 I’m currently learning in OMRAN software<br>- 💞️ I’m looking to collaborate on open source projects<br>- 📫 How to reach me - arawalid90@gmail.com
 
