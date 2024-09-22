@@ -1,3 +1,4 @@
+<img src="https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif" align="center" />
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%" align="center" />
 
 # 💫 About Me:
