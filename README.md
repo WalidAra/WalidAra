@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif" width="100%" align="center" />
 
 # 💫 About Me:
--👋 Hi, I’m Walid Araar<br>- 👀 I’m interested in creating full stack applications<br>- 🌱 I’m currently working at OMRAN software<br>- 💞️ I’m looking to collaborate on open source projects<br>- 📫 How to reach me - career.walidaraar@gmail.com
+-👋 Hi, I’m Walid Araar<br>- 👀 I’m interested in creating full stack applications<br>- 🌱 I’m currently working at Algebratic<br>- 💞️ I’m looking to collaborate on open source projects<br>- 📫 How to reach me - career.walidaraar@gmail.com
 
 
 ## 🌐 Socials:
